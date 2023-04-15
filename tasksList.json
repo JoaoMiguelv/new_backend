@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Fazer compras",
+        "description": "Ir ao mercado e comprar frutas, legumes e carne",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Estudar para o exame",
+        "description": "Revisar as notas de aula e fazer exercícios de prática",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Ir à academia",
+        "description": "Fazer uma hora de exercícios cardiovasculares e levantamento de peso",
+        "completed": true
+    },
+    {
+        "id": 4,
+        "title": "Marcar consulta médica",
+        "description": "Ligar para o médico e agendar um check-up geral",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "title": "Limpar a casa",
+        "description": "Aspirar e passar pano no chão, limpar as janelas e os banheiros",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "title": "Assistir ao novo filme da Marvel",
+        "description": "Comprar ingressos e ir ao cinema com amigos",
+        "completed": true
+    },
+    {
+        "id": 7,
+        "title": "Cozinhar um jantar especial",
+        "description": "Pesquisar receitas e preparar um prato gourmet para um jantar romântico",
+        "completed": false
+    },
+    {
+        "id": 8,
+        "title": "Ler um livro novo",
+        "description": "Comprar ou pegar emprestado um livro de ficção científica e ler no parque",
+        "completed": true
+    },
+    {
+        "id": 9,
+        "title": "Fazer a declaração de imposto de renda",
+        "description": "Organizar os documentos e preencher a declaração online",
+        "completed": false
+    },
+    {
+        "id": 10,
+        "title": "Aprender uma nova língua",
+        "description": "Assistir aulas online e praticar com um aplicativo de idiomas",
+        "completed": false
+    }
+]
